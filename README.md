@@ -123,45 +123,6 @@ Computer developer, Student in computer science license at UPM, I now wish to pu
  
 
 
- 
-<!-- 
-
-<details> 
- <summary> <h2> Here are some highlights of my open source journey </h2> </summary>
- 
- 
- <details>
-
-  <summary> Open Source Work </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r2.svg"/> </td>
-   <td><img src="git-metrics/r3.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
- 
- <details>
-
-  <summary> Useful Repos and Important Code </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r4l.svg"/> </td>
-   <td><img src="git-metrics/r4r.svg"/> </td>
-     
- 
- </table>
-  
-</details>
-
-</details>
- -->
- 
 
 </br>
 </br>
