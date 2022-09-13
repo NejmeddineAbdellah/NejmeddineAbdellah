@@ -14,7 +14,7 @@ Computer developer, Student in computer science license at UPM, I now wish to pu
 
 - 🔧 I’m currently looking for a new job opportunity.
 
-- 💡 I’m curious about ...IOt developpement.
+- 💡 I’m curious about ...IOt developpement & Devops.
 - 📖 I’m currently learning ...python.
 - ❄️ I’m looking to improve my IT knowledge.
 - 📫 How to reach me ...crissnajm1998@gmail.com.
