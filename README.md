@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+NEJMEDDINE;web+developer...;Software+developer...;Mobile+developer...;"/>
  
  <p>- <i>
-Computer developer, Student in computer science license at UPM, I now wish to put my skills and my experience at your service I can apply my technical knowledge to the development team.</i></p>
+Software developer, Engineering student at EMSI, I wish to put my skills and my experience at your service I can apply my technical knowledge to the development team.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
