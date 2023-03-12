@@ -82,11 +82,11 @@ Software developer, Engineering student at EMSI, I wish to put my skills and my 
 ## 📄📜 Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdonajm&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NejmeddineAbdellah&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdonajm"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NejmeddineAbdellah"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdonajm&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejmeddineAbdellah&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
@@ -114,17 +114,17 @@ Software developer, Engineering student at EMSI, I wish to put my skills and my 
 # Featured Repositories 🚀
 
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=JS-DOM-Snippets&theme=vue"/>
+<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=NejmeddineAbdellah&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=NejmeddineAbdellah&repo=JS-DOM-Snippets&theme=vue"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=NejmeddineAbdellah&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
 
-<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=Gamer-Hub"/>
+<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=NejmeddineAbdellah&repo=Gamer-Hub"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=Tech-Vision"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=NejmeddineAbdellah&repo=Tech-Vision"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=HomePal&theme=vue"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=NejmeddineAbdellah&repo=HomePal&theme=vue"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdonajm&repo=Directory-Tree-Generator&theme=apprentice"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=NejmeddineAbdellah&repo=Directory-Tree-Generator&theme=apprentice"/>
  
 
 -->
@@ -134,7 +134,7 @@ Software developer, Engineering student at EMSI, I wish to put my skills and my 
 
 ## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
 
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=abdonajm&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=NejmeddineAbdellah&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
 
 
 </br>
@@ -146,7 +146,7 @@ Software developer, Engineering student at EMSI, I wish to put my skills and my 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdonajm}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NejmeddineAbdellah}/count.svg" /></p> 
 <br>
 </div>
 
