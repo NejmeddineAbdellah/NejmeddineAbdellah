@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+NEJMEDDINE;web+developer...;Software+developer...;Mobile+developer...;"/>
  
  <p>- <i>
-Software developer, Engineering student at EMSI, I wish to put my skills and my experience at your service I can apply my technical knowledge to the development team.</i></p>
+Software developer, futur engineer , I wish to put my skills and my experience at your service I can apply my technical knowledge to the development team.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
@@ -15,9 +15,9 @@ Software developer, Engineering student at EMSI, I wish to put my skills and my 
 - 🔧 I’m currently looking for a new job opportunity.
 
 - 💡 I’m curious about ...IOt developpement & Devops.
-- 📖 I’m currently learning ...python.
+- 📖 I’m currently learning ...Clound.
 - ❄️ I’m looking to improve my IT knowledge.
-- 📫 How to reach me ...crissnajm1998@gmail.com.
+- 📫 How to reach me ...abdellahnejmeddine@gmail.com.
 
 <hr>
 
@@ -65,6 +65,8 @@ Software developer, Engineering student at EMSI, I wish to put my skills and my 
 #### Tools
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
@@ -73,12 +75,16 @@ Software developer, Engineering student at EMSI, I wish to put my skills and my 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![SQl management](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
+
 
 
 
 #### Technologies
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
