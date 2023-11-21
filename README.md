@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+NEJMEDDINE;web+developer...;Software+developer...;Mobile+developer...;"/>
  
  <p>- <i>
-Software developer, futur engineer , I wish to put my skills and my experience at your service I can apply my technical knowledge to the development team.</i></p>
+Full Stack developer, futur engineer , I wish to put my skills and my experience at your service I can apply my technical knowledge to the development team.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
@@ -14,10 +14,10 @@ Software developer, futur engineer , I wish to put my skills and my experience a
 
 - 🔧 I’m currently looking for a new job opportunity.
 
-- 💡 I’m curious about ...IOt developpement & Devops.
-- 📖 I’m currently learning ...Clound.
-- ❄️ I’m looking to improve my IT knowledge.
-- 📫 How to reach me ...abdellahnejmeddine@gmail.com.
+- 💡 I’m curious about ...Devops .
+- 📖 I’m currently learning Clound.
+- ❄️ I’m looking to improve my Machine Learning knowledge.
+- 📫 How to reach me abdellahnejmeddine@gmail.com.
 
 <hr>
 
