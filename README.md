@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+NEJMEDDINE;web+developer...;Software+developer...;Mobile+developer...;"/>
  
  <p>- <i>
-Full Stack developer, futur engineer , I wish to put my skills and my experience at your service I can apply my technical knowledge to the development team.</i></p>
+Java/Spring Boot Engineer, passionate about building scalable and efficient backend systems. I am eager to apply my expertise in Java, Spring Boot, and microservices to innovative development teams.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
@@ -12,12 +12,11 @@ Full Stack developer, futur engineer , I wish to put my skills and my experience
 
 </br>
 
-- 🔧 I’m currently looking for a new job opportunity.
-
-- 💡 I’m curious about ...Devops .
-- 📖 I’m currently learning Clound.
-- ❄️ I’m looking to improve my Machine Learning knowledge.
-- 📫 How to reach me abdellahnejmeddine@gmail.com.
+- 🔧 I’m currently looking for a new job opportunity as a **Java/Spring Boot Developer**.
+- 💡 I’m curious about **Salesforce**.
+- 📖 I’m currently learning **Docker, Kubernetes, and AWS**.
+- ❄️ I’m improving my knowledge in **Microservices Architecture**.
+- 📫 How to reach me: abdellahnejmeddine@gmail.com.
 
 <hr>
 
@@ -78,15 +77,14 @@ Full Stack developer, futur engineer , I wish to put my skills and my experience
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 
-
-
-
 #### Technologies
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 
 <!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
 
